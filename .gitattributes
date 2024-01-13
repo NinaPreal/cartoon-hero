@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body></body>
+<h1>Hey. I'm a big heading</h1>
+<<p>Hey. I'm a <b>paragraph</b> elemnt. Cool huh?</p>
+<a href="https://google.com" target="_blank" title="Lets go to google">Click me! I am a link!</a>
+<p>My name is:<br>
+Kitty cat</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
+<body></body># Auto detect text files and perform LF normalization
 * text=auto
